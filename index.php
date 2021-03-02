@@ -19,10 +19,10 @@
      </p>
      </i>
      </h1>
-
+     </pre>
 
 <h1 align="center" > <a  href="https://www.kostyor.ru/poetry/marshak/?n=10">ОТВЕТ</h1>
-</pre>
+
 <img src="img_girl.png" width="500" height="600">
 
 
