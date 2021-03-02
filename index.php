@@ -4,14 +4,29 @@
 	<title>tumirlon</title>
 </head>
 <body>
-		<p>
-HTML is the standard markup language for Web pages.
+	<h1 align="center" >Загадка</h1>
+	<pre>
 
-With HTML you can create your own Website.
+	  <h1 style="color:red;";  >
+      <i 
+      <p align="center" >
+    В Полотняной стране
+    По реке Простыне
+    Плывет пароход
+    То назад, то вперед,
+    А за ним такая гладь —
+    Ни морщинки не видать.
+     </p>
+     </i>
+     </h1>
 
-HTML is easy to learn - You will enjoy it!</p>
 
-<h1>C++++++</h1>
+<h1 align="center" > <a  href="https://www.kostyor.ru/poetry/marshak/?n=10">ОТВЕТ</h1>
+</pre>
+<img src="img_girl.png" width="500" height="600">
+
+
+
 
 </body>
 </html>
