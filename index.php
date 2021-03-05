@@ -31,7 +31,7 @@
     <b>
    
 
-     <h2 style="color: white">Me in social media</h2>
+     <h2 style="color: #8F9152">Me in social media</h2>
 
      <a href="https://www.instagram.com/accounts/onetap/?next=%2F">
      	<img alt="Qries" src="https://im0-tub-com.yandex.net/i?id=46ea1ce0304acedc771520fe6c0af2fc&n=13"
