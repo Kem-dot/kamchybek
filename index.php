@@ -3,10 +3,10 @@
  <head>
 
 <title>tumirlon</title>
-  <body background="https://cdn.wallpapersafari.com/38/2/6TCklW.jpg" >
+  <body background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4PN-UaNWzXKvnY5PO9w9_lmDOIsc0uN8ig&usqp=CAU" >
 
  </head>
-  	<h1 style="text-align: center;" ><i>Portfolio</i></h1>
+  	<h1 style="text-align: center;" ><i>About Me</i></h1>
   	<h2 style="color: #000000" ><em >NAME:</em> </h2>
   	<h2 style="color: #B0B7C6" ><em >Kamchybek</em> </h2>
     <h2 style="color: #000000" ><em >SURNAME:</em> </h2>
@@ -17,82 +17,15 @@
     <h2 style="color: #B0B7C6" ><em>12*33-378=??years</em></h2>
     <b>
     <p>
-    	<img src="https://yt3.ggpht.com/ytc/AAUvwnhXw7cZDSy_VD577yp5QIJyDJ5gk6RFZr8pfTW_=s900-c-k-c0x00ffffff-no-rj" alt="iaau" width="200"; height="200" border="1">
+    	<img src="https://yt3.ggpht.com/ytc/AAUvwnhXw7cZDSy_VD577yp5QIJyDJ5gk6RFZr8pfTW_=s900-c-k-c0x00ffffff-no-rj" alt="iaau" width="200"; height="200" style=" vertical-align:right; align-content: right; border-radius: 50%; " border="2">
 
      </p>
-     </b>
 
+     <h2 style="color: white">Me in social media</h2>
+     <a href="https://www.youtube.com/channel/UC3Pg9Sj8wWIWHq5R4xssqXg">yotube</a>
+     <a href="https://www.instagram.com/">instagram</a>
   
-	    <h1>Ойлорумда</h1>
-
-    <p><em><h2><pre style="color: #000000"> 
-            "2X"   
-Менин ойлорумда сенин атын чогуп калды
-Жана жүрөгүмдө  өө-оу-оу-оу-о
-Менин жүрөгүмдөн абдан жылуу оорун алдың
-Жана көкурөгумдөн өө-еи-еи-еи-е
-
-При виде тебя меня банчит приходка
-И твоя кислая походка разрывает
-Жжет меня добивает плотно
-Без четно прямо до глотки
-Она, ноты ДО РЕ МИ и мы синонимы
-Ночами мы бессонными где-то унесенными
-             
-Менин ойлорумда сенин атын чогуп калды
-Жана жүрөгүмдө  өө-оу-оу-оу-о
-Менин жүрөгүмдөн абдан жылуу оорун алдың                                                        
-Жана көкурөгумдөн өө-еи-еи-еи-е
-
-Менин ойлорумда, ал менин жүрөгүмдө, ал менин жүрөгүмдө 
-Менин ойлорумда, ал менин жүрөгүмдө, ал менин жүрөгүмдө
-</pre></h2></em> </p>
-
-  <div>
-      <video width="400" height="400"  controls  >
-         <source src="ой.mp4" type="video/mp4"   >
-      </video>
-     <br>
-          <a  href="https://www.youtube.com/watch?v=Z_8XjmbSQkQ"  >КЛИП КЛИК</a>
-     </br>
-  </div>
-
-<p><em><h2><pre style="color: #C1CACA"> 
-
-До нашего знакомства я был бессердечным
-Встретив ее, сразу я потерял дар речи
-Нежный голос шепчет, обнимая плечи
-Я думал, что навечно, а ты считала встречи
-Запах твоих локон, меня торкало до мана
-Секунда за секундой становился наркоманом
-Не смог стопануться, ты стала марих.аной
-Для меня и даришь туманы растаману
-
-Ты мой воздух и я дышу тобой
-
-Ты моя музы кислая, моя любовь и боль
-Пусть накроет волной, холодной зимой
-Ты будь со мной, моя любовь
-Моя любовь к тебе, никогда не потушить
-Она говорит внутри, она хочет жить
-Я знаю, что отпускаю тебя навсегда
-Мне бы главное, чтобы ты была счастлива
-
-Ты подарила мне любовь, а затем и боль
-Ты раскрыла сахар, а затем и соль
-Ты раскидала миллион, а затем и ноль
-Посвятила ты себя, но не тому герою
-Ты подарила мне любовь, а затем и боль
-Ты раскрыла сахар, а затем и соль
-Ты раскидала миллион, а затем и ноль
-Посвятила ты себя, но не тому герою
-            "2X" 
-Менин ойлорумда сенин атын чогуп калды
-Жана жүрөгүмдө  өө-оу-оу-оу-о
-Менин жүрөгүмдөн абдан жылуу оорун алдың
-Жана көкурөгумдөн өө-еи-еи-еи-е
-    </pre></h2></em> </p>
- 
+	   
 
 
 </body>
