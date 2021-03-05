@@ -40,7 +40,7 @@
 
       <a href="https://youtube.com/">
          <img alt="Qries" src="https://www.freeiconspng.com/uploads/youtube-icon-block-png-17.png"
-         width="40" height="40">
+         width="40" height="40" style="color: black" border="2">
   
 
 
