@@ -14,6 +14,11 @@
   <body background="https://www.iphone2lovely.com/wp-content/uploads/2016/05/hd-black-wallpapers-android-1024x640.jpg" >
 
  </head>
+ <p>
+    	<img src="https://yt3.ggpht.com/ytc/AAUvwnhXw7cZDSy_VD577yp5QIJyDJ5gk6RFZr8pfTW_=s900-c-k-c0x00ffffff-no-rj" alt="iaau" width="200"; height="200" style=" vertical-align:right; align-content: right; border-radius: 50%; border="2 class="rightpic">
+ 
+
+     </p>
   	<h1 style="color: #8F9152" align="center" ><i>About Me</i></h1>
   	<h2 style="color: #8F9152" ><em >NAME:</em> </h2>
   	<h2 style="color: #B0B7C6" ><em >Kamchybek</em> </h2>
@@ -24,11 +29,7 @@
     <h2 style="color: #8F9152" ><em >AGE:</em> </h2>
     <h2 style="color: #B0B7C6" ><em>12*33-378=??years</em></h2>
     <b>
-    <p>
-    	<img src="https://yt3.ggpht.com/ytc/AAUvwnhXw7cZDSy_VD577yp5QIJyDJ5gk6RFZr8pfTW_=s900-c-k-c0x00ffffff-no-rj" alt="iaau" width="200"; height="200" style=" vertical-align:right; align-content: right; border-radius: 50%; border="2 class="rightpic">
- 
-
-     </p>
+   
 
      <h2 style="color: white">Me in social media</h2>
 
