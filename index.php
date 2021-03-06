@@ -10,8 +10,17 @@
     margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
    }
   </style>
+
+ <link rel="stylesheet" type="text/css" href="css/style.css" />
+   <style>
+   .rightpic1 {
+    float: right; /* Выравнивание по правому краю */
+    margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+   }
+  </style> 
+
  
-  <body background="https://www.iphone2lovely.com/wp-content/uploads/2016/05/hd-black-wallpapers-android-1024x640.jpg" >
+  <body background="https://im0-tub-com.yandex.net/i?id=859329baa1ab234b129edc13ae0a6dc4&n=13" >
 
  </head>
  <p>
@@ -31,19 +40,16 @@
     <b>
    
 
-     <h2 style="color: #8F9152">Me in social media</h2>
+     <h2 style="color: #8F9152" >Me in social media</h2>
 
      <a href="https://www.instagram.com/accounts/onetap/?next=%2F">
      	<img alt="Qries" src="https://im0-tub-com.yandex.net/i?id=46ea1ce0304acedc771520fe6c0af2fc&n=13"
-         width="40" height="40">
+         width="40" height="40" border="2" >
     
-
       <a href="https://youtube.com/">
          <img alt="Qries" src="https://www.freeiconspng.com/uploads/youtube-icon-block-png-17.png"
          width="40" height="40" style="color: black" border="2">
   
-
-
 
 
 
