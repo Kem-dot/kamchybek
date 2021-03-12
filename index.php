@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-   background-image: url('https://www.desktopbackground.org/download/1366x768/2012/04/26/380319_star-trek-into-darkness-2013-hd-desktop-wallpapers-widescreen_1366x768_h.jpg');
+   background-image: url('https://toppng.com/uploads/preview/textured-backgrounds-1920x1080-11553971248tjcgmjojzo.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -22,14 +22,15 @@ body {
   <h3 style="color:green;">Social Status: <br>Student</br></h3>
   <h3 style="color:orange;">Age: 18 years</h3>
   <h4 style="color:pink;">Phone number: +996-507-006-903 </h4>
-       <a style="color:red;" target="_blank" href="https://www.instagram.com/accounts/onetap/?next=%2F">
+
+  <div>
+       <a href="https://www.instagram.com/accounts/onetap/?next=%2F">
       <img alt="Qries" src="https://im0-tub-com.yandex.net/i?id=46ea1ce0304acedc771520fe6c0af2fc&n=13"
          width="40" height="40" border="2" >
     
-      <a style="color:red;" target="_blank" href="https://youtube.com/">
+      <a href="https://youtube.com/">
          <img alt="Qries" src="https://www.freeiconspng.com/uploads/youtube-icon-block-png-17.png"
          width="40" height="40" style="color: black" border="2">
-         
   </div>
  <br>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -155,8 +156,10 @@ span.psw {
      width: 100%;
   }
 }
+
 </style>
-</br>
+
+
 </head>
 <body>
 
