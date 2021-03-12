@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-   background-image: url('https://toppng.com/uploads/preview/textured-backgrounds-1920x1080-11553971248tjcgmjojzo.jpg');
+   background-image: url('https://im0-tub-com.yandex.net/i?id=ed90b284887d41bfd450adba3a581e61&n=13');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
