@@ -29,7 +29,8 @@ body {
       <a style="color:red;" target="_blank" href="https://youtube.com/">
          <img alt="Qries" src="https://www.freeiconspng.com/uploads/youtube-icon-block-png-17.png"
          width="40" height="40" style="color: black" border="2">
-  
+         
+  </div>
  <br>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
