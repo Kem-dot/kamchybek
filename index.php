@@ -22,11 +22,11 @@ body {
   <h3 style="color:green;">Social Status: <br>Student</br></h3>
   <h3 style="color:orange;">Age: 18 years</h3>
   <h4 style="color:pink;">Phone number: +996-507-006-903 </h4>
-       <a href="https://www.instagram.com/accounts/onetap/?next=%2F">
+       <a style="color:red;" target="_blank" href="https://www.instagram.com/accounts/onetap/?next=%2F">
       <img alt="Qries" src="https://im0-tub-com.yandex.net/i?id=46ea1ce0304acedc771520fe6c0af2fc&n=13"
          width="40" height="40" border="2" >
     
-      <a href="https://youtube.com/">
+      <a style="color:red;" target="_blank" href="https://youtube.com/">
          <img alt="Qries" src="https://www.freeiconspng.com/uploads/youtube-icon-block-png-17.png"
          width="40" height="40" style="color: black" border="2">
   
