@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-   background-image: url('https://im0-tub-com.yandex.net/i?id=ed90b284887d41bfd450adba3a581e61&n=13');
+   background-image: url('https://www.desktopbackground.org/download/1366x768/2012/04/26/380319_star-trek-into-darkness-2013-hd-desktop-wallpapers-widescreen_1366x768_h.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
