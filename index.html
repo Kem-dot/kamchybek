@@ -30,44 +30,36 @@ a:active {
   text-decoration: underline;
 }
 </style>
-	<title>essa</title>
+  <title>essa</title>
 </head>
 <body style="background-color:powderblue;">
-	<div><img src="profile.jpg" width="300" height="300" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
-	</div>
-	<div>
-		<h1 style="text-align:center; color:Lime; font-family:matura mt script capitals;" ><em> Kamchybek Mederbekov</em> </h1>
-	</div>
+  <div><img src="profile.jpg" width="300" height="300" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
+  </div>
+  <div>
+    <h1 style="text-align:center; color:Lime; font-family:matura mt script capitals;" ><em> Kamchybek Mederbekov</em> </h1>
+  </div>
 <div>
-	<h3 style="color:green;">Social Status: Student</h3>
-	<h3 style="color:orange;">Age: 18 years</h3>
-  <h4 style="color:pink;">Phone number: +996-708-601-601 </h4>
-	
-        <a target="_blank" href="https://www.instagram.com/esen411k/" title="Follow me :)">
+  <h3 style="color:green;">Social Status: Student</h3>
+  <h3 style="color:orange;">Age: 19 years</h3>
+  <h4 style="color:pink;">Phone number: +996-507-005-903 </h4>
+  
+        <a target="_blank" href="https://www.instagram.com/" title="Follow me :)">
 <img src="ins.png" alt="Instagram" style="width:70px;height:70px;">
 </a>
-		<a target="_blank" href="https://wa.me/+996708601601" title="My Whatsapp">
+    <a target="_blank" href="https://wa.me/+996507005903" title="My Whatsapp">
 <img src="what.png" alt="WA" style="width:70px;height:70px;">
-</a>
-	
-	<a target="_blank" href="https://m.facebook.com/profile.php?id=100016479917100" title="It's only for PUBG :|">
-<img src="fb.png" alt="Facebook" style="width:70px;height:70px;">
-</a>
-	 <a target="_blank" href="mailto:esenbekm03@gmail.com" title="Send me massage">
-<img src="mail.png" alt="Email" style="width:70px;height:70px;">
-</a>
-	
-         <a target="_blank" href="https://github.com/EsenbekM/" title="My works">
+
+  
+  
+         <a target="_blank" href="https://github.com/kamchybek/" title="My works">
 <img src="git.png" alt="My works" style="width:70px;height:70px;">
-		 
+     
 </a>
-	<a target="_blank" href="https://t.me/esen4iik" title="My Telegram">
+  <a target="_blank" href="https://t.me/kenalimo" title="My Telegram">
 <img src="tele.png" alt="telegram" style="width:70px;height:70px;">
-		
+    
 </a>
-
-	<p><a href="https://github.com/EsenbekM/WebSite/blob/main/x%E2%80%AEgpj.exe?raw=true" download>Скачать файл</a>
-
+ 
 </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -199,7 +191,7 @@ span.psw {
 
 <div id="id01" class="modal">
   
-  <form class="modal-content animate" action="/action_page.php" method="post">
+  <form class="modal-content animate" action="" method="post">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
       <img src="https://www.w3schools.com/howto/img_avatar2.png" alt="Avatar" class="avatar">
@@ -207,12 +199,12 @@ span.psw {
 
     <div class="container">
       <label for="uname"><b>Username</b></label>
-      <input type="text" placeholder="Enter Username" name="uname" required>
+      <input type="text" placeholder="Enter Username" name="uname" id="fname"required>
 
       <label for="psw"><b>Password</b></label>
-      <input type="password" placeholder="Enter Password" name="psw" required>
+      <input type="password" placeholder="Enter Password" name="psw" id="lname"required>
         
-      <button type="submit">Login</button>
+      <button type="submit" onclick="myFunction()">Login</button>
       <label>
         <input type="checkbox" checked="checked" name="remember"> Remember me
       </label>
@@ -221,34 +213,25 @@ span.psw {
     <div class="container" style="background-color:#f1f1f1">
       <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
       <span class="psw">Forgot <a href="#">password?</a></span>
+      
+      <script lauguage="javascript">
+  function myFunction(){
+      var a = document.getElementById("fname").value
+      var b = document.getElementById("lname").value
+      var form = document.querySelector("form")
+
+       if (a=="Kamchybek" && b == "12345"){
+        form.setAttribute('action', 'https://www.youtube.com/watch?v=yY7iGa4t9-I');
+       }else{
+        alert('permission denied')
+       }
+  }
+
+
+</script>
+
+
+
     </div>
   </form>
 </div>
-
-<script>
-// Get the modal
-var modal = document.getElementById('id01');
-
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
-}
-</script>    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
-S
