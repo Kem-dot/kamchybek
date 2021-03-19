@@ -33,7 +33,7 @@ a:active {
   <title>essa</title>
 </head>
 <body style="background-color:powderblue;">
-  <div><img src="profile.jpg" width="300" height="300" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
+  <div><img src="md.png" width="300" height="300" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
   </div>
   <div>
     <h1 style="text-align:center; color:Lime; font-family:matura mt script capitals;" ><em> Kamchybek Mederbekov</em> </h1>
